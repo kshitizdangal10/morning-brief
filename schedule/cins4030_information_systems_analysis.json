@@ -2,9 +2,7 @@
   "course": "Information Systems Analysis",
   "course_code": "CINS 4030",
   "term": "Fall 2026",
-  "instructor": "Dr. Ron Berry (rberry@ulm.edu)",
-  "meeting_time": "Tue/Thu 8:00-9:15 AM, Hemphill Hall 316",
-  "source_file": "CINS4030Fall2026.docx",
+  "meeting_time": "Tue/Thu 8:00-9:15 AM",
   "notes": "Required text: Modern Systems Analysis and Design, 10th Ed. (Valacich and George). Grade components: Exam 1 (100), Exam 2 (100), Final (100), Project (100), Assignments (75), Quizzes (25).",
   "events": [
     {

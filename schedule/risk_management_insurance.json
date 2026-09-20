@@ -1,41 +1,237 @@
 {
   "course": "Risk Management and Insurance",
   "term": "Fall 2026",
-  "source_file": "Biology 1001-43876_Online Only_Syllabus & Tentative Schedule_Fall 2026.pdf",
-  "source_note": "Filename says 'Biology 1001' but the schedule content is for Risk Management and Insurance — likely a misnamed download.",
   "notes": "TopHat course access required. CODE: 268721. Exam dates are in bold in the original syllabus and are taken in class.",
   "events": [
-    {"date": "2026-08-18", "day": "Tue", "type": "class", "topic": "Syllabus/ Introduction", "topic_area": "Part I: Fundamentals of Risk and Risk Management", "notes": "Course access to TopHat is REQUIRED. CODE: 268721"},
-    {"date": "2026-08-20", "day": "Thu", "type": "class", "topic": "Ch. 1 (Intro to Risk)", "topic_area": "Part I: Fundamentals of Risk and Risk Management"},
-    {"date": "2026-08-25", "day": "Tue", "type": "class", "topic": "Ch. 2 (Risk ID and Evaluation)", "topic_area": "Part I: Fundamentals of Risk and Risk Management"},
-    {"date": "2026-08-27", "day": "Thu", "type": "class", "topic": "Ch. 3 (Non-Insu Risk Mgmt Tech)", "topic_area": "Part I: Fundamentals of Risk and Risk Management"},
-    {"date": "2026-09-01", "day": "Tue", "type": "class", "topic": "Exam 1 Review", "topic_area": "Part I: Fundamentals of Risk and Risk Management"},
-    {"date": "2026-09-03", "day": "Thu", "type": "exam", "topic": "Exam 1 (Ch. 1, 2, and 3)", "topic_area": "Part I: Fundamentals of Risk and Risk Management"},
-    {"date": "2026-09-08", "day": "Tue", "type": "class", "topic": "Ch. 4 (Principles of Insurance)", "topic_area": "Part II: Fundamentals of Insurance and Liability"},
-    {"date": "2026-09-10", "day": "Thu", "type": "class", "topic": "Ch. 5 (Insurance Policy Provisions)", "topic_area": "Part II: Fundamentals of Insurance and Liability"},
-    {"date": "2026-09-15", "day": "Tue", "type": "class", "topic": "Ch. 6 (Liability Loss Exposures)", "topic_area": "Part II: Fundamentals of Insurance and Liability"},
-    {"date": "2026-09-17", "day": "Thu", "type": "class", "topic": "Ch. 6 (Liability Loss Exposures)", "topic_area": "Part II: Fundamentals of Insurance and Liability"},
-    {"date": "2026-09-22", "day": "Tue", "type": "class", "topic": "Exam 2 Review", "topic_area": "Part II: Fundamentals of Insurance and Liability"},
-    {"date": "2026-09-24", "day": "Thu", "type": "exam", "topic": "Exam 2 (Ch. 4, 5, and 6)", "topic_area": "Part II: Fundamentals of Insurance and Liability", "deadline": "Ch. 1-6 CATs due at 11:59pm"},
-    {"date": "2026-09-29", "day": "Tue", "type": "class", "topic": "Ch. 7 (Auto Insurance)", "topic_area": "Part III: Personal Risk Management"},
-    {"date": "2026-10-01", "day": "Thu", "type": "class", "topic": "Ch. 7 Auto continued", "topic_area": "Part III: Personal Risk Management"},
-    {"date": "2026-10-06", "day": "Tue", "type": "class", "topic": "Ch. 8 (HOMEOWNERS Insurance)", "topic_area": "Part III: Personal Risk Management"},
-    {"date": "2026-10-08", "day": "Thu", "type": "holiday", "topic": "Fall Break (no class)", "topic_area": "Part III: Personal Risk Management"},
-    {"date": "2026-10-13", "day": "Tue", "type": "class", "topic": "Exam 3 Review", "topic_area": "Part III: Personal Risk Management"},
-    {"date": "2026-10-15", "day": "Thu", "type": "event", "topic": "Symposium (Attendance Required)", "topic_area": "Part III: Personal Risk Management"},
-    {"date": "2026-10-20", "day": "Tue", "type": "exam", "topic": "Exam 3 (Ch. 7 and 8)", "topic_area": "Part III: Personal Risk Management", "deadline": "Ch. 7 and 8 CATs due at 11:59pm"},
-    {"date": "2026-10-22", "day": "Thu", "type": "class", "topic": "Ch. 9 (Life Insurance)", "topic_area": "Part III: Personal Risk Management"},
-    {"date": "2026-10-27", "day": "Tue", "type": "class", "topic": "Ch. 10 (Health Insurance)", "topic_area": "Part III: Personal Risk Management"},
-    {"date": "2026-10-29", "day": "Thu", "type": "class", "topic": "TBA", "topic_area": "Part III: Personal Risk Management"},
-    {"date": "2026-11-03", "day": "Tue", "type": "class", "topic": "Exam 4 Review", "topic_area": "Part III: Personal Risk Management"},
-    {"date": "2026-11-05", "day": "Thu", "type": "exam", "topic": "Exam 4 (Ch. 9 & 10)", "topic_area": "Part III: Personal Risk Management", "deadline": "Ch. 9 and 10 CATs due at 11:59pm"},
-    {"date": "2026-11-10", "day": "Tue", "type": "class", "topic": "Ch. 11 (Organizational Forms)", "topic_area": "Part IV: The Risk Management Environment"},
-    {"date": "2026-11-12", "day": "Thu", "type": "class", "topic": "Ch. 12 (Functions of Insurers)", "topic_area": "Part IV: The Risk Management Environment"},
-    {"date": "2026-11-17", "day": "Tue", "type": "class", "topic": "Ch. 13 (Government Regulation)", "topic_area": "Part IV: The Risk Management Environment"},
-    {"date": "2026-11-19", "day": "Thu", "type": "class", "topic": "Activity", "topic_area": "Part IV: The Risk Management Environment"},
-    {"date": "2026-11-24", "day": "Tue", "type": "holiday", "topic": "Happy Thanksgiving (no class)", "topic_area": "Part IV: The Risk Management Environment"},
-    {"date": "2026-11-26", "day": "Thu", "type": "holiday", "topic": "Happy Thanksgiving (no class)", "topic_area": "Part IV: The Risk Management Environment"},
-    {"date": "2026-12-01", "day": "Tue", "type": "class", "topic": "Exam 5 Review", "topic_area": "Part IV: The Risk Management Environment"},
-    {"date": "2026-12-03", "day": "Thu", "type": "exam", "topic": "Exam 5 (Ch. 11, 12, 13)", "topic_area": "Part IV: The Risk Management Environment", "time": "3:00PM", "deadline": "Ch. 11, 12, 13 CATs due at 11:59pm"}
+    {
+      "date": "2026-08-18",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Syllabus/ Introduction",
+      "topic_area": "Part I: Fundamentals of Risk and Risk Management",
+      "notes": "Course access to TopHat is REQUIRED. CODE: 268721"
+    },
+    {
+      "date": "2026-08-20",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 1 (Intro to Risk)",
+      "topic_area": "Part I: Fundamentals of Risk and Risk Management"
+    },
+    {
+      "date": "2026-08-25",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 2 (Risk ID and Evaluation)",
+      "topic_area": "Part I: Fundamentals of Risk and Risk Management"
+    },
+    {
+      "date": "2026-08-27",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 3 (Non-Insu Risk Mgmt Tech)",
+      "topic_area": "Part I: Fundamentals of Risk and Risk Management"
+    },
+    {
+      "date": "2026-09-01",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Exam 1 Review",
+      "topic_area": "Part I: Fundamentals of Risk and Risk Management"
+    },
+    {
+      "date": "2026-09-03",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Exam 1 (Ch. 1, 2, and 3)",
+      "topic_area": "Part I: Fundamentals of Risk and Risk Management"
+    },
+    {
+      "date": "2026-09-08",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 4 (Principles of Insurance)",
+      "topic_area": "Part II: Fundamentals of Insurance and Liability"
+    },
+    {
+      "date": "2026-09-10",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 5 (Insurance Policy Provisions)",
+      "topic_area": "Part II: Fundamentals of Insurance and Liability"
+    },
+    {
+      "date": "2026-09-15",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 6 (Liability Loss Exposures)",
+      "topic_area": "Part II: Fundamentals of Insurance and Liability"
+    },
+    {
+      "date": "2026-09-17",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 6 (Liability Loss Exposures)",
+      "topic_area": "Part II: Fundamentals of Insurance and Liability"
+    },
+    {
+      "date": "2026-09-22",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Exam 2 Review",
+      "topic_area": "Part II: Fundamentals of Insurance and Liability"
+    },
+    {
+      "date": "2026-09-24",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Exam 2 (Ch. 4, 5, and 6)",
+      "topic_area": "Part II: Fundamentals of Insurance and Liability",
+      "deadline": "Ch. 1-6 CATs due at 11:59pm"
+    },
+    {
+      "date": "2026-09-29",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 7 (Auto Insurance)",
+      "topic_area": "Part III: Personal Risk Management"
+    },
+    {
+      "date": "2026-10-01",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 7 Auto continued",
+      "topic_area": "Part III: Personal Risk Management"
+    },
+    {
+      "date": "2026-10-06",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 8 (HOMEOWNERS Insurance)",
+      "topic_area": "Part III: Personal Risk Management"
+    },
+    {
+      "date": "2026-10-08",
+      "day": "Thu",
+      "type": "holiday",
+      "topic": "Fall Break (no class)",
+      "topic_area": "Part III: Personal Risk Management"
+    },
+    {
+      "date": "2026-10-13",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Exam 3 Review",
+      "topic_area": "Part III: Personal Risk Management"
+    },
+    {
+      "date": "2026-10-15",
+      "day": "Thu",
+      "type": "event",
+      "topic": "Symposium (Attendance Required)",
+      "topic_area": "Part III: Personal Risk Management"
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Tue",
+      "type": "exam",
+      "topic": "Exam 3 (Ch. 7 and 8)",
+      "topic_area": "Part III: Personal Risk Management",
+      "deadline": "Ch. 7 and 8 CATs due at 11:59pm"
+    },
+    {
+      "date": "2026-10-22",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 9 (Life Insurance)",
+      "topic_area": "Part III: Personal Risk Management"
+    },
+    {
+      "date": "2026-10-27",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 10 (Health Insurance)",
+      "topic_area": "Part III: Personal Risk Management"
+    },
+    {
+      "date": "2026-10-29",
+      "day": "Thu",
+      "type": "class",
+      "topic": "TBA",
+      "topic_area": "Part III: Personal Risk Management"
+    },
+    {
+      "date": "2026-11-03",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Exam 4 Review",
+      "topic_area": "Part III: Personal Risk Management"
+    },
+    {
+      "date": "2026-11-05",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Exam 4 (Ch. 9 & 10)",
+      "topic_area": "Part III: Personal Risk Management",
+      "deadline": "Ch. 9 and 10 CATs due at 11:59pm"
+    },
+    {
+      "date": "2026-11-10",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 11 (Organizational Forms)",
+      "topic_area": "Part IV: The Risk Management Environment"
+    },
+    {
+      "date": "2026-11-12",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 12 (Functions of Insurers)",
+      "topic_area": "Part IV: The Risk Management Environment"
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 13 (Government Regulation)",
+      "topic_area": "Part IV: The Risk Management Environment"
+    },
+    {
+      "date": "2026-11-19",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Activity",
+      "topic_area": "Part IV: The Risk Management Environment"
+    },
+    {
+      "date": "2026-11-24",
+      "day": "Tue",
+      "type": "holiday",
+      "topic": "Happy Thanksgiving (no class)",
+      "topic_area": "Part IV: The Risk Management Environment"
+    },
+    {
+      "date": "2026-11-26",
+      "day": "Thu",
+      "type": "holiday",
+      "topic": "Happy Thanksgiving (no class)",
+      "topic_area": "Part IV: The Risk Management Environment"
+    },
+    {
+      "date": "2026-12-01",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Exam 5 Review",
+      "topic_area": "Part IV: The Risk Management Environment"
+    },
+    {
+      "date": "2026-12-03",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Exam 5 (Ch. 11, 12, 13)",
+      "topic_area": "Part IV: The Risk Management Environment",
+      "time": "3:00PM",
+      "deadline": "Ch. 11, 12, 13 CATs due at 11:59pm"
+    }
   ]
 }

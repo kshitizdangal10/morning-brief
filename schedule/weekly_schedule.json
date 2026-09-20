@@ -1,7 +1,7 @@
 {
   "term": "Fall 2026",
-  "student": "Kshitiz Dangal",
-  "source": "ULM registration (View Registration Information) screenshot, 2026-09-19; confirmed by student",
+  "student": "Kshitiz",
+  "source": "student's official class registration, confirmed 2026-09-19",
   "classes": [
     {
       "course": "Information Systems Analysis",
@@ -11,7 +11,7 @@
         "Thu"
       ],
       "time": "8:00-9:15 AM",
-      "location": "Hemphill Hall 316",
+      "location": null,
       "schedule_file": "cins4030_information_systems_analysis.json"
     },
     {
@@ -33,7 +33,7 @@
         "Thu"
       ],
       "time": "2:00-3:15 PM",
-      "location": "Hemphill Hall 121",
+      "location": null,
       "schedule_file": "mgmt4009_strategic_management.json"
     },
     {
@@ -44,7 +44,7 @@
         "Thu"
       ],
       "time": "approx. 3:30-4:45 PM",
-      "location": "HMPH 308",
+      "location": null,
       "schedule_file": "cins3041_advanced_networking.json"
     },
     {

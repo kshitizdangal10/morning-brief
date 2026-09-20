@@ -2,10 +2,8 @@
   "course": "Advanced Networking",
   "course_code": "CINS 3041-44180",
   "term": "Fall 2026",
-  "instructor": "Dr. William Barnett (barnett@ulm.edu)",
-  "meeting_time": "Tue/Thu, HMPH 308",
-  "meeting_time_note": "Syllabus contact-info line said 'MW 15:30-16:45' but student confirmed actual meeting days are Tue/Thu (matches the syllabus's own date-by-date schedule and ULM registration) - the MW text was a syllabus copy-paste error.",
-  "source_file": "CINS3041-44180-F 2026.pdf",
+  "meeting_time": "Tue/Thu, afternoon",
+  "meeting_time_note": "Syllabus contact-info line said 'MW 15:30-16:45' but the syllabus's own date-by-date schedule and the student's official registration both show Tue/Thu - the MW text was a syllabus copy-paste error.",
   "notes": "Textbooks: SRWE (CCNAv7) Companion Guide; CCNA Routing and Switching Portable Command Guide. Software: Packet Tracer. Final exam has two 100-pt parts (Packet Tracer practical + written) via NetAcad.",
   "events": [
     {
