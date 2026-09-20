@@ -1,0 +1,61 @@
+{
+  "term": "Fall 2026",
+  "student": "Kshitiz Dangal",
+  "source": "ULM registration (View Registration Information) screenshot, 2026-09-19; confirmed by student",
+  "classes": [
+    {
+      "course": "Information Systems Analysis",
+      "course_code": "CINS 4030",
+      "days": [
+        "Tue",
+        "Thu"
+      ],
+      "time": "8:00-9:15 AM",
+      "location": "Hemphill Hall 316",
+      "schedule_file": "cins4030_information_systems_analysis.json"
+    },
+    {
+      "course": "Risk Management and Insurance",
+      "days": [
+        "Tue",
+        "Thu"
+      ],
+      "time": "11:00 AM (approx.)",
+      "location": null,
+      "schedule_file": "risk_management_insurance.json",
+      "note": "Exact meeting time/room not confirmed from syllabus text - only an 11am slot seen on the registration screenshot."
+    },
+    {
+      "course": "Strategic Management",
+      "course_code": "MGMT 4009-43903",
+      "days": [
+        "Tue",
+        "Thu"
+      ],
+      "time": "2:00-3:15 PM",
+      "location": "Hemphill Hall 121",
+      "schedule_file": "mgmt4009_strategic_management.json"
+    },
+    {
+      "course": "Advanced Networking",
+      "course_code": "CINS 3041-44180",
+      "days": [
+        "Tue",
+        "Thu"
+      ],
+      "time": "approx. 3:30-4:45 PM",
+      "location": "HMPH 308",
+      "schedule_file": "cins3041_advanced_networking.json"
+    },
+    {
+      "course": "Biology 1001 - Living World",
+      "course_code": "CRN 43876",
+      "days": null,
+      "time": null,
+      "location": null,
+      "format": "100% online, asynchronous",
+      "schedule_file": "biology1001_living_world.json",
+      "note": "Fully online, no fixed weekly meeting time - weekly SmartBook/Quiz/Reading Assignment deadlines (usually Friday 11:45pm) and fixed-date exams instead. This course's academic-integrity policy explicitly bans using AI tools to produce assignments, discussion posts, quizzes, or exam answers - tracking due dates is fine, doing the coursework is not."
+    }
+  ]
+}

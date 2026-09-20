@@ -1,0 +1,204 @@
+{
+  "course": "Information Systems Analysis",
+  "course_code": "CINS 4030",
+  "term": "Fall 2026",
+  "instructor": "Dr. Ron Berry (rberry@ulm.edu, 318.342.1126, Stubbs 252)",
+  "meeting_time": "Tue/Thu 8:00-9:15 AM, Hemphill Hall 316",
+  "source_file": "CINS4030Fall2026.docx",
+  "notes": "Required text: Modern Systems Analysis and Design, 10th Ed. (Valacich and George). Grade components: Exam 1 (100), Exam 2 (100), Final (100), Project (100), Assignments (75), Quizzes (25).",
+  "events": [
+    {
+      "date": "2026-08-18",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Class Introduction"
+    },
+    {
+      "date": "2026-08-20",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Chapter 1: The Systems Development Environment"
+    },
+    {
+      "date": "2026-08-25",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Chapter 2: The Origins of Software"
+    },
+    {
+      "date": "2026-08-27",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Chapter 3: Managing the IS Project"
+    },
+    {
+      "date": "2026-09-01",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Project Management"
+    },
+    {
+      "date": "2026-09-03",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Project Management, continued"
+    },
+    {
+      "date": "2026-09-08",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Chapter 4: Identifying and Selecting Projects"
+    },
+    {
+      "date": "2026-09-10",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Chapter 5: Initiating and Planning Systems Development Projects"
+    },
+    {
+      "date": "2026-09-15",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Chapter 5, continued"
+    },
+    {
+      "date": "2026-09-17",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Exam 1 (Chapters 1-5)"
+    },
+    {
+      "date": "2026-09-22",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Exam Review; Chapter 6: Determining Requirements"
+    },
+    {
+      "date": "2026-09-24",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Chapter 6: Determining Requirements"
+    },
+    {
+      "date": "2026-09-29",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Chapter 6: Determining Requirements, continued"
+    },
+    {
+      "date": "2026-10-01",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Chapter 7: Structuring System Process Requirements"
+    },
+    {
+      "date": "2026-10-06",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Chapter 7, continued"
+    },
+    {
+      "date": "2026-10-08",
+      "day": "Thu",
+      "type": "holiday",
+      "topic": "Fall Break"
+    },
+    {
+      "date": "2026-10-13",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Chapter 7, continued"
+    },
+    {
+      "date": "2026-10-15",
+      "day": "Thu",
+      "type": "event",
+      "topic": "Symposium - No Class"
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Chapter 8: Structuring System Data Requirements"
+    },
+    {
+      "date": "2026-10-22",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Chapter 8, continued"
+    },
+    {
+      "date": "2026-10-27",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Chapter 8, continued"
+    },
+    {
+      "date": "2026-10-29",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Exam 2 (Chapters 6-8)"
+    },
+    {
+      "date": "2026-11-03",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Review Exam 2; Chapter 9: Databases"
+    },
+    {
+      "date": "2026-11-05",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Chapter 9: Databases, continued"
+    },
+    {
+      "date": "2026-11-10",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Chapter 9: Databases, continued"
+    },
+    {
+      "date": "2026-11-12",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Chapter 12: System Implementation and Maintenance"
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Tue",
+      "type": "event",
+      "topic": "Project Presentations"
+    },
+    {
+      "date": "2026-11-19",
+      "day": "Thu",
+      "type": "event",
+      "topic": "Project Presentations, continued"
+    },
+    {
+      "date": "2026-11-24",
+      "day": "Tue",
+      "type": "holiday",
+      "topic": "Thanksgiving Break"
+    },
+    {
+      "date": "2026-11-26",
+      "day": "Thu",
+      "type": "holiday",
+      "topic": "Thanksgiving Break"
+    },
+    {
+      "date": "2026-12-01",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Course Review / Buffer"
+    },
+    {
+      "date": "2026-12-08",
+      "day": "Tue",
+      "type": "exam",
+      "topic": "Final Exam",
+      "time": "10:00 AM"
+    }
+  ]
+}

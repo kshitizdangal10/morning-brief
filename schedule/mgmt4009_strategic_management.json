@@ -1,0 +1,234 @@
+{
+  "course": "Strategic Management",
+  "course_code": "MGMT 4009-43903",
+  "term": "Fall 2026",
+  "instructor": "Dr. Shobod Nath (nath@ulm.edu, Hemphill Hall 156)",
+  "meeting_time": "Tue/Thu 2:00-3:15 PM, Hemphill Hall 121",
+  "source_file": "Updated MGMT 4009-43903 Syllabus_Fall 2026_Nath-LateAfternoon.pdf",
+  "notes": "Required text: Crafting and Executing Strategy (Thompson et al., 23rd Ed.) via Connect. Team Strategic Planning Project due 2026-11-16 (150 pts). Article review assignments and SmartBook readings assigned throughout via Connect.",
+  "events": [
+    {
+      "date": "2026-08-18",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Introduction to the course; syllabus review; overview of strategy",
+      "deadline": "Connect orientation video due 8/21"
+    },
+    {
+      "date": "2026-08-20",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 1: What Is Strategy and Why Is It Important?; team building, student profile",
+      "deadline": "SmartBook 2.0 Student Orientation due 8/21 11:59pm; SmartBook 1 Reading due 8/23 11:59pm"
+    },
+    {
+      "date": "2026-08-25",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 2: Charting a Company Direction - Vision, Mission, Objectives, and Strategy",
+      "deadline": "SmartBook 2 Reading due 8/27 11:59pm"
+    },
+    {
+      "date": "2026-08-27",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 3: Evaluating a Company External Environment",
+      "deadline": "SmartBook 3 Reading due 8/30 11:59pm"
+    },
+    {
+      "date": "2026-09-01",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Review for Exam 1",
+      "deadline": "ABAs 1 (Porter's Five Forces) due 9/1 11:59pm"
+    },
+    {
+      "date": "2026-09-03",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Exam 1 (Chapters 1-3)"
+    },
+    {
+      "date": "2026-09-08",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 4: Evaluating a Company Resources, Capabilities, and Competitiveness",
+      "deadline": "SmartBook 4 Reading due 9/10 11:59pm"
+    },
+    {
+      "date": "2026-09-10",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 4, continued",
+      "deadline": "ABAs 2 (Resource-based view) due 9/14 11:59pm"
+    },
+    {
+      "date": "2026-09-15",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 5: The Five Generic Competitive Strategies (1)",
+      "deadline": "SmartBook 5 Reading due 9/16 11:59pm"
+    },
+    {
+      "date": "2026-09-17",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 5: The Five Generic Competitive Strategies (2)"
+    },
+    {
+      "date": "2026-09-22",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 6: Strengthening a Company Competitive Position",
+      "deadline": "SmartBook 6 Reading due 9/23 11:59pm"
+    },
+    {
+      "date": "2026-09-24",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 7: Strategies for Competing in International Markets",
+      "deadline": "SmartBook 7 Reading due 9/30 11:59pm; Case Analysis (Tesla Strategy in 2020) due 9/27 11:59pm"
+    },
+    {
+      "date": "2026-09-29",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 7, continued"
+    },
+    {
+      "date": "2026-10-01",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Review for Exam 2",
+      "deadline": "Article Review Assignment 1 due 9/30 11:59pm"
+    },
+    {
+      "date": "2026-10-06",
+      "day": "Tue",
+      "type": "exam",
+      "topic": "Exam 2 (Chapters 4-7)"
+    },
+    {
+      "date": "2026-10-08",
+      "day": "Thu",
+      "type": "holiday",
+      "topic": "Fall Break - No Class"
+    },
+    {
+      "date": "2026-10-13",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 8: Corporate Strategy - Diversification and the Multibusiness Company (1)",
+      "deadline": "SmartBook 8 Reading due 10/19 11:59pm"
+    },
+    {
+      "date": "2026-10-15",
+      "day": "Thu",
+      "type": "event",
+      "topic": "CBSS Symposium (extra credit assignment available)"
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 8 (2); Ch. 9: Ethics, CSR, Environmental Sustainability, and Strategy",
+      "deadline": "SmartBook 9 Reading due 10/26 11:59pm"
+    },
+    {
+      "date": "2026-10-22",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Review for Exam 3",
+      "deadline": "Article Review Assignment 2 due 10/22 11:59pm"
+    },
+    {
+      "date": "2026-10-27",
+      "day": "Tue",
+      "type": "exam",
+      "topic": "Exam 3 (Chapters 8-9)"
+    },
+    {
+      "date": "2026-10-29",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 10: Building an Organization Capable of Good Strategy Execution",
+      "deadline": "SmartBook 10 Reading due 11/2 11:59pm"
+    },
+    {
+      "date": "2026-11-03",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Ch. 11: Managing Internal Operations",
+      "deadline": "SmartBook 11 Reading due 11/5 11:59pm"
+    },
+    {
+      "date": "2026-11-05",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Ch. 12: Corporate Culture and Leadership",
+      "deadline": "SmartBook 12 Reading due 11/10 11:59pm"
+    },
+    {
+      "date": "2026-11-10",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Review for Exam 4"
+    },
+    {
+      "date": "2026-11-12",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Exam 4 (Chapters 10-12)"
+    },
+    {
+      "date": "2026-11-16",
+      "day": "Mon",
+      "type": "deadline",
+      "topic": "Team Strategic Planning Project report due (11:59 PM, via Canvas)",
+      "notes": "150 points, 15 percent of course grade. Not a class day (Monday)."
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Tue",
+      "type": "event",
+      "topic": "Team presentations (Teams 1-6)"
+    },
+    {
+      "date": "2026-11-19",
+      "day": "Thu",
+      "type": "event",
+      "topic": "Team presentations (Teams 7-12)"
+    },
+    {
+      "date": "2026-11-24",
+      "day": "Tue",
+      "type": "holiday",
+      "topic": "Thanksgiving Break - No Class"
+    },
+    {
+      "date": "2026-11-26",
+      "day": "Thu",
+      "type": "holiday",
+      "topic": "Thanksgiving Break - No Class"
+    },
+    {
+      "date": "2026-12-01",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Recapitulation of Strategic Management (quiz, attendance required)"
+    },
+    {
+      "date": "2026-12-03",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Senior Exit Exam; review for optional final exam"
+    },
+    {
+      "date": "2026-12-08",
+      "day": "Tue",
+      "type": "exam",
+      "topic": "Optional Final Exam (cumulative; can replace one exam grade)",
+      "time": "1:00-2:50 PM"
+    }
+  ]
+}

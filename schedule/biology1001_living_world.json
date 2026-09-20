@@ -1,0 +1,232 @@
+{
+  "course": "Biology 1001 - Living World",
+  "course_code": "CRN 43876",
+  "term": "Fall 2026",
+  "format": "100% online, asynchronous (web only, Canvas/Connect)",
+  "instructor": "Mrs. Amanda L. Thompson (athompson@ulm.edu, Hanna 301)",
+  "meeting_time": null,
+  "meeting_time_note": "No fixed weekly meeting time. Weekly topics are self-paced; SmartBook/Quiz/Reading Assignments generally open Monday and close Friday 11:45pm. Exams are on fixed dates with 2-day windows.",
+  "source_file": "Biology 1001-43876_Online Only_Syllabus & Tentative Schedule_Fall 2026.pdf",
+  "notes": "Required text: Biology, The Essentials, 4th Ed. (Hoefnagels) with Connect. Grading: Exams 55% (4 exams, 15% wait -- see syllabus for exact breakdown), Quizzes 15%, SmartBooks 15%, Participation 15%. IMPORTANT: this course's academic integrity policy explicitly prohibits using AI tools to generate, edit, paraphrase, or construct written responses for assignments, discussions, quizzes, or exams - violations are treated as academic dishonesty. This restriction applies to Biology coursework itself, not to using a personal tool to track due dates.",
+  "events": [
+    {
+      "date": "2026-08-17",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Course Introduction; review of policies and Canvas materials; Ch.1: Scientific Study of Life and Scientific Method; complete Syllabus/Expectations Agreement"
+    },
+    {
+      "date": "2026-08-21",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.1 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-08-24",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Ch.3: Cells"
+    },
+    {
+      "date": "2026-08-28",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.3 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-08-31",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Ch.4: The Energy of Life"
+    },
+    {
+      "date": "2026-09-04",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.4 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-09-07",
+      "day": "Mon",
+      "type": "holiday",
+      "topic": "Labor Day Holiday (Monday only)",
+      "notes": "Also review Ch. 1, 3, 4 for Exam 1 this week."
+    },
+    {
+      "date": "2026-09-09",
+      "day": "Wed",
+      "type": "deadline",
+      "topic": "Discussion Post #1 (Exam 1 Prep, mandatory participation) due by 11:45pm"
+    },
+    {
+      "date": "2026-09-10",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Exam 1 (Ch. 1, 3, 4) - timed 75 minutes, 75 questions, 100 points",
+      "notes": "Opens 12am, closes 11:45pm. Online via Canvas/Connect with Proctorio - working webcam required. Fri 9/11 is Rosh Hashanah."
+    },
+    {
+      "date": "2026-09-14",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Ch.7: DNA Structure and Gene Function"
+    },
+    {
+      "date": "2026-09-18",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.7 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-09-21",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Ch.8: DNA Replication, Binary Fission, and Mitosis"
+    },
+    {
+      "date": "2026-09-25",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.8 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-09-28",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Ch.10: Patterns of Inheritance"
+    },
+    {
+      "date": "2026-10-02",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.10 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-10-05",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Review Ch. 7, 8, 10 for Exam 2"
+    },
+    {
+      "date": "2026-10-07",
+      "day": "Wed",
+      "type": "exam",
+      "topic": "Exam 2 / Midterm (Ch. 7, 8, 10) - timed 75 minutes, 75 questions, 100 points",
+      "notes": "Opens 12am, closes 11:45pm. Webcam required."
+    },
+    {
+      "date": "2026-10-08",
+      "day": "Thu",
+      "type": "holiday",
+      "topic": "Fall Break"
+    },
+    {
+      "date": "2026-10-09",
+      "day": "Fri",
+      "type": "holiday",
+      "topic": "Fall Break"
+    },
+    {
+      "date": "2026-10-12",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Ch.12: Forces of Evolutionary Change",
+      "notes": "Build-A-Beast Project assigned via Canvas."
+    },
+    {
+      "date": "2026-10-16",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.12 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-10-19",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Ch.19: Communities and Ecosystems"
+    },
+    {
+      "date": "2026-10-23",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.19 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-10-26",
+      "day": "Mon",
+      "type": "deadline",
+      "topic": "Build-A-Beast Project due",
+      "notes": "Also the DROP DATE - last day to drop this course with a W. Review Ch. 12 and 19 for Exam 3."
+    },
+    {
+      "date": "2026-10-30",
+      "day": "Fri",
+      "type": "exam",
+      "topic": "Exam 3 (Ch. 12, 19) - timed 75 minutes, 75 questions, 100 points",
+      "notes": "Opens 12am, closes 11:45pm. Webcam required."
+    },
+    {
+      "date": "2026-11-02",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Ch.20: Preserving Biodiversity"
+    },
+    {
+      "date": "2026-11-06",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.20 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-11-09",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Ch.21: Plant Form and Function"
+    },
+    {
+      "date": "2026-11-13",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.21 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-11-16",
+      "day": "Mon",
+      "type": "class",
+      "topic": "Ch.22: Reproduction and Development of Flowering Plants"
+    },
+    {
+      "date": "2026-11-20",
+      "day": "Fri",
+      "type": "deadline",
+      "topic": "Ch.22 SmartBook, Quiz, and Reading Assignment due by 11:45pm"
+    },
+    {
+      "date": "2026-11-23",
+      "day": "Mon",
+      "type": "holiday",
+      "topic": "Thanksgiving Holiday (no classes through 11/27)",
+      "notes": "Classes resume Monday 11/30."
+    },
+    {
+      "date": "2026-11-30",
+      "day": "Mon",
+      "type": "deadline",
+      "topic": "Discussion Post #2 (Pre-Final Exam check-out, mandatory participation) due by 11:45pm",
+      "notes": "Final Exam Prep week - study Ch. 20, 21, 22. No more class work accepted after this post."
+    },
+    {
+      "date": "2026-12-02",
+      "day": "Wed",
+      "type": "holiday",
+      "topic": "Student Study Day (no classes)"
+    },
+    {
+      "date": "2026-12-07",
+      "day": "Mon",
+      "type": "exam",
+      "topic": "FINAL Exam 4 (Ch. 20, 21, 22) - timed 110 minutes, 80 questions, 100 points",
+      "notes": "Opens Monday 12am, closes 11:45pm. Webcam required."
+    }
+  ]
+}

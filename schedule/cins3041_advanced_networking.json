@@ -1,0 +1,218 @@
+{
+  "course": "Advanced Networking",
+  "course_code": "CINS 3041-44180",
+  "term": "Fall 2026",
+  "instructor": "Dr. William Barnett (barnett@ulm.edu, 318.342.1146, HMPH 301C)",
+  "meeting_time": "Tue/Thu, HMPH 308",
+  "meeting_time_note": "Syllabus contact-info line said 'MW 15:30-16:45' but student confirmed actual meeting days are Tue/Thu (matches the syllabus's own date-by-date schedule and ULM registration) - the MW text was a syllabus copy-paste error.",
+  "source_file": "CINS3041-44180-F 2026.pdf",
+  "notes": "Textbooks: SRWE (CCNAv7) Companion Guide; CCNA Routing and Switching Portable Command Guide. Software: Packet Tracer. Final exam has two 100-pt parts (Packet Tracer practical + written) via NetAcad.",
+  "events": [
+    {
+      "date": "2026-08-18",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Course Intro; Unit 1: OSI Review"
+    },
+    {
+      "date": "2026-08-20",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 1: Subnet and VLSM (Class A and B)"
+    },
+    {
+      "date": "2026-08-25",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 1: Subnet and VLSM (Class A and B), continued"
+    },
+    {
+      "date": "2026-08-27",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 1: Hierarchical and Scalable Networks"
+    },
+    {
+      "date": "2026-09-01",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 1: Hierarchical and Scalable Networks, continued"
+    },
+    {
+      "date": "2026-09-03",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 2: Switch Concepts and Config"
+    },
+    {
+      "date": "2026-09-08",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 2: Switch Concepts and Config"
+    },
+    {
+      "date": "2026-09-10",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 2: Switch Concepts and Config, continued"
+    },
+    {
+      "date": "2026-09-15",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 2: VLANs and Trunks"
+    },
+    {
+      "date": "2026-09-17",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 2: VLANs and Trunks, continued"
+    },
+    {
+      "date": "2026-09-22",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 2: Inter-VLAN Routing"
+    },
+    {
+      "date": "2026-09-24",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 2: Inter-VLAN Routing, continued"
+    },
+    {
+      "date": "2026-09-29",
+      "day": "Tue",
+      "type": "exam",
+      "topic": "Exam 1"
+    },
+    {
+      "date": "2026-10-01",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 3: Redundant Networks (STP)"
+    },
+    {
+      "date": "2026-10-06",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 3: Redundant Networks (STP), continued"
+    },
+    {
+      "date": "2026-10-08",
+      "day": "Thu",
+      "type": "holiday",
+      "topic": "Fall Break (no class)"
+    },
+    {
+      "date": "2026-10-13",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 3: Redundant Networks (Etherchannel)"
+    },
+    {
+      "date": "2026-10-15",
+      "day": "Thu",
+      "type": "event",
+      "topic": "College Symposium",
+      "notes": "Midterm grades due same day"
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 4: Available Networks (DHCP)"
+    },
+    {
+      "date": "2026-10-22",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 4: Available and Reliable Networks (DHCP)"
+    },
+    {
+      "date": "2026-10-27",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 4: Available Networks (SLAAC)"
+    },
+    {
+      "date": "2026-10-29",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 4: Available Networks (FHRP)"
+    },
+    {
+      "date": "2026-11-03",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 5: Security and Wireless (Security)"
+    },
+    {
+      "date": "2026-11-05",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 5: Security and Wireless (Security), continued"
+    },
+    {
+      "date": "2026-11-10",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 5: Security and Wireless (WLAN)"
+    },
+    {
+      "date": "2026-11-12",
+      "day": "Thu",
+      "type": "exam",
+      "topic": "Exam 2"
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 6: Routing Concepts"
+    },
+    {
+      "date": "2026-11-19",
+      "day": "Thu",
+      "type": "class",
+      "topic": "Unit 6: Routing Concepts, continued"
+    },
+    {
+      "date": "2026-11-24",
+      "day": "Tue",
+      "type": "holiday",
+      "topic": "Thanksgiving Holiday"
+    },
+    {
+      "date": "2026-11-26",
+      "day": "Thu",
+      "type": "holiday",
+      "topic": "Thanksgiving Holiday"
+    },
+    {
+      "date": "2026-12-01",
+      "day": "Tue",
+      "type": "class",
+      "topic": "Unit 6: Routing Concepts, continued"
+    },
+    {
+      "date": "2026-12-02",
+      "day": "Wed",
+      "type": "class",
+      "topic": "Study Day"
+    },
+    {
+      "date": "2026-12-05",
+      "day": "Sat",
+      "type": "exam",
+      "topic": "Final Exam (SRWE Final) - Packet Tracer practical + written portion, comprehensive",
+      "time": "8:00-9:50 AM"
+    },
+    {
+      "date": "2026-12-08",
+      "day": "Tue",
+      "type": "deadline",
+      "topic": "SRWE PTSA Final due by 11:59 PM"
+    }
+  ]
+}

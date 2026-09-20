@@ -1,0 +1,118 @@
+{
+  "projects": [
+    {
+      "id": "mgmt4009_spp",
+      "course": "Strategic Management",
+      "course_code": "MGMT 4009-43903",
+      "name": "Strategic Planning Project",
+      "due": "2026-11-16 11:59 PM (report, via Canvas)",
+      "presentation_dates": "2026-11-17 and 2026-11-19",
+      "value": "150 points (15% of course grade)",
+      "source": "Appendix A of the MGMT 4009 syllabus - a team assignment, not individual",
+      "items": [
+        {
+          "id": "history",
+          "label": "Report section 1: company history/introduction",
+          "done": false
+        },
+        {
+          "id": "vision",
+          "label": "Report section 2: vision, mission, and goals analysis",
+          "done": false
+        },
+        {
+          "id": "swot",
+          "label": "Report section 3: SWOT analysis - your own research, not lifted from the internet",
+          "done": false
+        },
+        {
+          "id": "unique",
+          "label": "Report section 4: unique aspects of the company that influence its strategy",
+          "done": false
+        },
+        {
+          "id": "current_strategy",
+          "label": "Report section 5: current strategies and strategic position, using course terminology",
+          "done": false
+        },
+        {
+          "id": "recommendations",
+          "label": "Report section 6: strategic recommendations, specific enough to act on",
+          "done": false
+        },
+        {
+          "id": "citations",
+          "label": "Report section 7: citations and reference list",
+          "done": false
+        },
+        {
+          "id": "formatting",
+          "label": "Formatting check: Times New Roman 12, single-spaced, 1-inch margins, 5+ pages (excl. title/reference pages)",
+          "done": false
+        },
+        {
+          "id": "header_names",
+          "label": "Every team member's name is in the header of every page",
+          "done": false
+        },
+        {
+          "id": "word_not_pdf",
+          "label": "Saved/submitted as MS Word (.docx), not PDF",
+          "done": false
+        },
+        {
+          "id": "acronyms",
+          "label": "All acronyms spelled out on first use",
+          "done": false
+        },
+        {
+          "id": "filename",
+          "label": "File named 'SPP-Last name of each person in the group'",
+          "done": false
+        },
+        {
+          "id": "canvas_submit",
+          "label": "Submitted electronically through Canvas before the deadline",
+          "done": false
+        },
+        {
+          "id": "slides",
+          "label": "Presentation deck built - roughly 15-20 slides",
+          "done": false
+        },
+        {
+          "id": "rehearse",
+          "label": "Presentation rehearsed - must fill the full 15-20 minutes",
+          "done": false
+        },
+        {
+          "id": "dress",
+          "label": "Business formal dress planned for presentation day",
+          "done": false
+        },
+        {
+          "id": "peer_eval",
+          "label": "Peer evaluation of team members completed near end of term",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "biology_build_a_beast",
+      "course": "Biology 1001 - Living World",
+      "course_code": "CRN 43876",
+      "name": "Build-A-Beast Project",
+      "due": "2026-10-26",
+      "presentation_dates": null,
+      "value": "unknown - not specified in the syllabus text captured so far",
+      "source": "Only the assignment name and due date were in the syllabus schedule table - the actual instructions/rubric weren't captured. Check Canvas for the real requirements before relying on this checklist.",
+      "items": [
+        {
+          "id": "check_canvas",
+          "label": "Open Canvas and read the actual Build-A-Beast Project instructions/rubric (not yet in this tracker)",
+          "done": false
+        }
+      ]
+    }
+  ]
+}
